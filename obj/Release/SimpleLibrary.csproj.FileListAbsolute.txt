@@ -1,0 +1,6 @@
+D:\Dropbox\drnlab\learning\level-up\unity-programación-avanzada\01-Monobehaviour\SimpleLibrary\SimpleLibrary\bin\Release\SimpleLibrary.dll
+D:\Dropbox\drnlab\learning\level-up\unity-programación-avanzada\01-Monobehaviour\SimpleLibrary\SimpleLibrary\bin\Release\SimpleLibrary.pdb
+D:\Dropbox\drnlab\learning\level-up\unity-programación-avanzada\01-Monobehaviour\SimpleLibrary\SimpleLibrary\obj\Release\SimpleLibrary.csprojAssemblyReference.cache
+D:\Dropbox\drnlab\learning\level-up\unity-programación-avanzada\01-Monobehaviour\SimpleLibrary\SimpleLibrary\obj\Release\SimpleLibrary.csproj.CoreCompileInputs.cache
+D:\Dropbox\drnlab\learning\level-up\unity-programación-avanzada\01-Monobehaviour\SimpleLibrary\SimpleLibrary\obj\Release\SimpleLibrary.dll
+D:\Dropbox\drnlab\learning\level-up\unity-programación-avanzada\01-Monobehaviour\SimpleLibrary\SimpleLibrary\obj\Release\SimpleLibrary.pdb
